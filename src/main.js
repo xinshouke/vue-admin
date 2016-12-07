@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './app'
+import App from './App'
 import Router from 'vue-router'
 import './css/admin.css'
 
